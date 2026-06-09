@@ -21,3 +21,4 @@ Included mock sections:
 - Offline / Low-Data Access
 
 All data is mock data for design and concept demonstration.
+end.
